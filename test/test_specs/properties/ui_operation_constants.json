@@ -1,0 +1,28 @@
+{
+    
+    "customer_Lookup" : "//span[text()='Lookup']",
+    "DefaultDropdownOption" : "//span[text()='Mobile Number']",
+    "mobileNumberOption" : "//div[text()='Mobile Number']",
+    "emailOption" : "//div[text()='Email Address']",
+    "msisdnTextbox" : "lookupField_msisdn",
+    "emailAddressTextbox" : "//input[@placeholder='Enter Email Address']",
+    "buttonSearch" : "//button[text()='Search']",
+    "searcResult1" : "//div[contains(@class, 'row strict m-b-5 in-border border-b')]",
+    "verificationCheckbox" : "//h6[contains(text(),'Authorized users')]/..//input[@type='checkbox']",
+    "buttonVerify" : "//button[text()='Verify']",
+    "mytmobileLink" : "//span[text()='MY T-MOBILE']",
+    "mytmobileLinkDisabled" : "//span[text()='MY T-MOBILE' and @disabled='disabled']",
+    "logoutLink" : "//span[text()='Logout']",
+    "logo" : "//img[@class='logo']",
+    "RepDashImage" : "//*[@class='container splash-page ng-scope']",
+    "username" : "username",
+    "password" : "password",
+    "shopLink" : "//span[text()='SHOP']",
+    "myaccountLink" : "//span[text()='My Account Home']",
+    "hi" : "//span[text()='Hi,']",
+    "LoginButton" : "//button[text()='Log in']",
+    "LoginButtonRetail" : "//button[text()='Login']",
+    "searchLookup" : "//i[@class='fa fa-search']",
+    "accountLookup" : "//span[text()='Accounts']",
+    "closeAllLink" : "//span[text()='Close All']"
+}
